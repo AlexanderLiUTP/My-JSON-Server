@@ -1,6 +1,6 @@
 {
   "users":[
-    {"id":1, "name":"Josh", "email":"Josh@email.com", "verified":true}
+    {"id":1, "name":"Josh", "email":"Josh@email.com", "country":"Panama", "verified":true}
   ],
   "posters": [
     { "id": 1, "title": "Post 1" },
